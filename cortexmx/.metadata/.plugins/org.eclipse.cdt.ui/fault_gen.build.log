@@ -1,0 +1,10 @@
+18:26:26 **** Incremental Build of configuration Debug for project fault_gen ****
+make -j4 all 
+arm-none-eabi-size   fault_gen.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5780	    108	   1580	   7468	   1d2c	fault_gen.elf
+Finished building: default.size.stdout
+ 
+
+18:26:27 Build Finished. 0 errors, 0 warnings. (took 479ms)
+

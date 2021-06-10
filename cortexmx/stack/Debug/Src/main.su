@@ -1,0 +1,6 @@
+main.c:27:5:dallanBakalim	8	static
+main.c:33:5:fun_add	32	static
+main.c:45:29:change_sp_to_psp	0	static,ignoring_inline_asm
+main.c:61:6:generate_exception	4	static,ignoring_inline_asm
+main.c:67:5:main	16	static
+main.c:88:6:SVC_Handler	8	static
